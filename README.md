@@ -17,7 +17,7 @@
 <img align="right" width="300" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
 
 - 🎓 Currently pursuing **BS Software Engineering** at **FAST-NUCES Islamabad** (6th Semester)
-- 💻 Passionate about developing **scalable applications**, **backend APIs**, and **frontend experiences**
+- 💻 Passionate about managing cloud infrastructure of **scalable applications**, **, complex as well as beautiful architectures** and **DevOps expertise**
 - 🌱 Always learning and exploring new technologies
 - 🚀 Enthusiastic about **effective strategies** and **efficient solutions**
 - 🔍 Interested in **DevOps** and **Cloud technologies**
